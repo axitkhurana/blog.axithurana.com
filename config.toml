@@ -1,0 +1,10 @@
+baseURL = "http://blog.axitkhurana.com/"
+languageCode = "en-us"
+title = "Akshit Khurana"
+navigation = ["about.md"]
+theme = "onetwothree"
+publishDir = "docs"
+
+[params]
+    twitter = "axitkhurana"
+    navigation = ["about.md"]
